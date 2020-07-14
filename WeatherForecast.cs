@@ -5,7 +5,7 @@ namespace aspcoreapi
     public class WeatherForecast
     {
         public int i = 1;
-        public string str = string.Empty;
+        public string str = "From Branch 2";
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
