@@ -4,7 +4,7 @@ namespace aspcoreapi
 {
     public class WeatherForecast
     {
-        public int i=0;
+        public int i=1;
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
